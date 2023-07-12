@@ -1,3 +1,4 @@
+//Java swing example that performs sqare of the input number
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
