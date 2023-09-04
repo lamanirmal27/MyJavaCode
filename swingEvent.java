@@ -26,7 +26,6 @@ public class swingEvent extends JFrame	implements MouseListener {
 	public void mouseExited(MouseEvent e) {
 		label.setText("Mouse exited");
 	}
-	
 	public void mouseReleased(MouseEvent e) {
 		label.setText("Mouse released");
 		
